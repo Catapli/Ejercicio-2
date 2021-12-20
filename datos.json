@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Piña Colada",
+      "units": 32,
+      "price": 12
+    },
+    {
+      "name": "Prueba",
+      "price": 34,
+      "units": 3,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Patatas Fritas",
+      "units": 30,
+      "price": 45
+    }
+  ]
+}
